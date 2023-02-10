@@ -1,0 +1,15 @@
+{
+  "name": "project-v2.0-ml-story",
+  "version": "2.0.0",
+  "description": "A site dedicated to the game mobile legends, this site tells the stories of the characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flaer",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "normalize.css": "^8.0.1"
+  }
+}
